@@ -1,6 +1,6 @@
 package project_01;
 import java.util.*;
-//first class create  than create two array in function
+//first create class  than create two array in function
 class bill {
 	void bill(String name[],int price[]) {
 		for(int a=0;a<price.length;a++) {
